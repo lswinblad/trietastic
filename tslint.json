@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "tslint:latest"
+  ],
+  "rules": {
+    "no-submodule-imports": [true, "core-js"],
+    "quotemark": [true, "single"]
+  }
+}
